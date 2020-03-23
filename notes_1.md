@@ -1,3 +1,27 @@
+- [NOTES 1 FILE](#notes-1-file)
+- [INDEX](#index)
+- [JAVASCRIPT](#javascript)
+- [immutable.js](#immutablejs)
+- [immer.js](#immerjs)
+- [vanilla-js](#vanilla-js)
+- [Polyfill](#polyfill)
+- [Shim](#shim)
+- [cross-env](#cross-env)
+- [flow](#flow)
+- [Webpack](#webpack)
+- [webpack-dev-server](#webpack-dev-server)
+- [babel-loader](#babel-loader)
+- [hot module replacement (yada HMR)](#hot-module-replacement--yada-hmr-)
+- [javascript performans avantajı nereden kaynaklı?](#javascript-performans-avantaj--nereden-kaynakl--)
+- [sunucudaki performans üstünlüğü](#sunucudaki-performans--st-nl---)
+- [performans comparison: single-thread non-blocking I/O vs multithread blocking-IO](#performans-comparison--single-thread-non-blocking-i-o-vs-multithread-blocking-io)
+- [moment.js](#momentjs)
+- [moment-timezone.js](#moment-timezonejs)
+- [moment-timezone-with-data.js vs moment-timezone-with-data-2012-2022.js](#moment-timezone-with-datajs-vs-moment-timezone-with-data-2012-2022js)
+- [numeral.js](#numeraljs)
+- [npm package versions](#npm-package-versions)
+
+
 ############################
 # NOTES 1 FILE
 ############################
